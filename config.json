@@ -1,0 +1,20 @@
+{
+    "params" : {
+        "local_server" : "True",
+        "local_uri" : "mysql://root:@127.0.0.1:3308/exorcistpunisher",
+        "prod_uri" : "mysql://root:@127.0.0.1:3308/exorcistpunisher",
+        "tw_url" : "https://twitter.com/calculuschronicles",
+        "fb_url" : "https://facebook.com/calculuschronicles",
+        "gh_url" : "https://github.com/calculuschronicles",
+        "blog_name" : "Calculus Chronicles",
+        "tag_line" : "Bridging the Gap Between Theory and Reality",
+        "gmail_user" : "mishravatsalya74@gmail.com" ,
+        "gmail_password" : "haao nojd soxz crce",
+        "about_text" : "Hi, my name is Vatsalya and I created this blog for all the exorsit punishers out there. Lots of love. See you all soon.",
+        "no_of_posts" : 2,
+        "login_image" : "login.svg",
+        "admin_user" : "vatsalya",
+        "admin_password" : "1234",
+        "upload_location" : "C:\\Users\\HP\\Desktop\\Flask\\static"
+    }
+}
